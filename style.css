@@ -1,0 +1,26 @@
+.header-tengah {
+	float: right;
+	padding: 5px;
+	box-sizing: border-box;
+	width: 30%;
+	margin: 0px 5px 5px 5px;
+	display: block;
+}
+.search-box1 {
+	position: relative;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+    display: inline-block;
+    
+/*KONTAINER MENU*/
+section {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333;
+}
